@@ -17,7 +17,7 @@
 - ⚡ Fun fact **Highly Competitive, Grateful, Unwavering, Optimistic**
 
 
-## How to reach me? 🤙
+## Connect with me 
 
 <p align="left">
 <a href="https://linkedin.com/in/krishneshchaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishneshchaurasia" height="30" width="40" /></a>
