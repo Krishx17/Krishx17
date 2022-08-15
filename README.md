@@ -16,7 +16,6 @@
 
 - ⚡ Fun fact **Highly Competitive, Grateful, Unwavering, Optimistic**
 
-
 ## Connect with me 
 
 <p align="left">
@@ -24,6 +23,7 @@
 <a href="https://www.youtube.com/c/tech fm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech fm" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Rudy45KC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rudy45kc" height="30" width="40" /></a>
 </p>
+<br/>
 
 ## Skill Set  
 <table><tr><td valign="top" width="33%">
