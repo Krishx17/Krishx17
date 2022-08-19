@@ -52,7 +52,7 @@
 ### Version Control  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
-<img style="margin: 10px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/701d64a8943214b9767733e7ac0b201f1a08a8b3/svgs/brands/github.svg" alt="Git" height="50"/> 
+<img style="margin: 10px" src="https://img.icons8.com/bubbles/452/github.png 2x" alt="Git" height="50"/> 
 </div></td></tr></table>  
 
 <br/>  
