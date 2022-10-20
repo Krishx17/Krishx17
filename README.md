@@ -1,4 +1,4 @@
-<img src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programming.gif">
+<!-- <img src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programming.gif"> -->
 <h1 align="center">Hi 👋, I'm Krishnesh Chaurasia</h1>
 <h3 align="center">A Computer Science and Engineering Sophomore. I've been consistently coding in Java, familiar with OOPs, Learning Full Stack Web Development.</h3>
 
