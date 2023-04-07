@@ -2,7 +2,7 @@
 <!-- [![Rudy's GitHub Banner](./assets/GithubBanner.png)](https://github.com/Rudy45KC/Portfolio-Krishnesh-Chaurasia)
  -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishnesh-chaurasia/">
+  <a href="https://www.linkedin.com/in/krishnesh-chaurasia-36a893215/">
     <img src="https://img.shields.io/badge/krishnesh-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
 <a href="https://twitter.com/_rudy45kc">
