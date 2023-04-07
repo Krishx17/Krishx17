@@ -1,64 +1,36 @@
-<!-- <img src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programming.gif"> -->
-<h1 align="center">Hi 👋, I'm Krishnesh Chaurasia</h1>
-<h3 align="center">A Computer Science and Engineering Sophomore. I've been consistently coding in Java, familiar with OOPs, Learning Full Stack Web Development.</h3>
+<!-- [![Rudy's GitHub Banner](./assets/GithubBanner.png)](https://abdulfarhan.com)
+ -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishnesh-chaurasia/">
+    <img src="https://img.shields.io/badge/krishnesh-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+ </a>
+<a href="https://twitter.com/_rudy45kc">
+    <img src="https://img.shields.io/badge/-@rudy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+ </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudy45kc&label=Profile%20views&color=0e75b6&style=flat" alt="rudy45kc" /> </p>
+Hey there,
 
-- 🌱 I’m currently learning **Reactjs**
+I'm Krishnesh Chaurasia, a full-stack Web Developer based in Phagwara PB, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently learning Next.js, and looking to collaborate on Open-Source projects, with a goal to be involved in the Community. I'm also open to having a chat about **Anything Web Development Related**.
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+Want to know more about me? [Check out my portfolio](https://github.com/Rudy45KC/Portfolio-Krishnesh-Chaurasia)
 
-- 🤝 I’m looking for help with **Competitive programming**
+## Current Stack
 
-- 💬 Ask me about **Java, OOPs, Git and Github, Html, CSS, Bootstrap, JavaScript**
+| Preprocessor Scripting Lang | Programming Lang |
+| :--- | ---: |
+| ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+| **Frameworks, Platforms and Libraries** | **Databases** |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Hosting** | **Design**|
+| ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
-- 📫 How to reach me **Krishneshchaurasia1@gmail.com**
+## Current Stats
 
-- ⚡ Fun fact **Highly Competitive, Grateful, Unwavering, Optimistic**
+|   ![Rudy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rudy45kc&theme=rogue)
+| :---: |
 
-## Connect with me 
+| ![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy45kc&show_icons=true&theme=city_lights) | ![Rudy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudy45kc&theme=city-lights) |
+| :---: | :---: |
 
-<p align="left">
-<a href="https://linkedin.com/in/krishneshchaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishneshchaurasia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tech fm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech fm" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Rudy45KC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rudy45kc" height="30" width="40" /></a>
-</p>
-<br/>
-
-## Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-
-</div></td><td valign="top" width="33%">
-
-### Languages
-<div align="center"> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-</div></td><td valign="top" width="33%">
-
-### Version Control  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
- <img style = "margin: 10px" src="https://img.icons8.com/bubbles/50/000000/github.png" alt = "git" height= "70"/>
-</div></td></tr></table>  
-
-<br/>  
-
-## Github Stats 📈
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rudy45KC&theme=radical" alt="rudy45kc"/></p>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=Rudy45KC&&show_icons=true&count_private=true&theme=radical&hide_border=true&custom_title=Krishnesh's%20Github%20Stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudy45KC&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudy45kc&theme=city_lights) |
+| :---: |
