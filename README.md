@@ -33,4 +33,13 @@ Want to know more about me? [Check out my portfolio](https://github.com/Rudy45KC
 
 | ![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy45kc&show_icons=true&theme=city_lights) | ![Rudy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudy45kc&theme=city-lights) |
 | :---: | :---: |
+ 
+ <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sauravhathi/sauravhathi/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sauravhathi/sauravhathi/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/sauravhathi/sauravhathi/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+ <p align="center"><img src="https://bravo68web.me/images/header_.png"></p>
+ 
 
