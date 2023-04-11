@@ -34,5 +34,3 @@ Want to know more about me? [Check out my portfolio](https://github.com/Rudy45KC
 | ![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy45kc&show_icons=true&theme=city_lights) | ![Rudy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudy45kc&theme=city-lights) |
 | :---: | :---: |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudy45kc&theme=city_lights) |
-| :---: |
