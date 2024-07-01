@@ -32,8 +32,3 @@ I've heard I'm quite sociable, so feel free to reach out.
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/sauravhathi/sauravhathi/blob/output/github-contribution-grid-snake-dark.svg">
   <img alt="github-snake" src="https://github.com/sauravhathi/sauravhathi/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-## Current Stats
-
-| ![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishx17&show_icons=true&theme=city_lights) | ![Rudy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudy45kc&theme=city-lights) |
-| :---: | :---: |
