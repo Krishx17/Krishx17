@@ -17,7 +17,7 @@ HTML, CSS, Javascript, C++, React, Nodejs, Tailwind CSS
 ## 🕵️‍♀️ Profile Visits
 I see you've found my secret lair. Very impressive!
 </br></br>
-![Visitor Count](https://profile-counter.glitch.me/{rudy45kc}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{krishx17}/count.svg)
 
 ## 🔗 Links
 I've heard I'm quite sociable, so feel free to reach out.
@@ -35,5 +35,5 @@ I've heard I'm quite sociable, so feel free to reach out.
 
 ## Current Stats
 
-| ![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy45kc&show_icons=true&theme=city_lights) | ![Rudy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudy45kc&theme=city-lights) |
+| ![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishx17&show_icons=true&theme=city_lights) | ![Rudy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudy45kc&theme=city-lights) |
 | :---: | :---: |
