@@ -24,7 +24,6 @@ I've heard I'm quite sociable, so feel free to reach out.
 <p align="center">
 <a href="https://www.linkedin.com/in/krishnesh-chaurasia/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/_rudy45kc"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.instagram.com/Krishz.45/"><img src="https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=pink"></a>
 </p>
 
  <picture>
