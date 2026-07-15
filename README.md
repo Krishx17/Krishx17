@@ -14,11 +14,6 @@ I'm not saying I'm Batman, but have you ever seen me and Batman in the same room
 
 HTML, CSS, Javascript, C++, React, Nodejs, Tailwind CSS
 
-## 🕵️‍♀️ Profile Visits
-I see you've found my secret lair. Very impressive!
-</br></br>
-![Visitor Count](https://profile-counter.glitch.me/{krishx17}/count.svg)
-
 ## 🔗 Links
 I've heard I'm quite sociable, so feel free to reach out.
 <p align="center">
